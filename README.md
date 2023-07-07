@@ -40,4 +40,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### Github : https://github.com/OkamiXX/11-Note-Taking-APP
 
-### Deployed app : http://note-taker-90210.herokuapp.com/
+### Deployed app : https://note-taker-11-app-9fff81390478.herokuapp.com/

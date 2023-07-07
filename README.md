@@ -38,6 +38,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![](./img/1.png)
 ![](./img/2.png)
 
+## NOTES:
+Got information by watching youtube videos and searching on google for all the help I could get. Watched repetitions of the classes and YouTube videos about await, express.js and some logics on @midulive.
+
 ### Github : https://github.com/OkamiXX/11-Note-Taking-APP
 
 ### Deployed app : http://note-taker-90210.herokuapp.com/

@@ -8,7 +8,7 @@ const html_routes = require('./routes/html-routes');
 //
 const app = express();
 
-const PORT = 3001;
+const PORT = Process.env.PORT || 3001;
 
 // Basic middleware for the use of json files/code and regular text.
 app.use(express.urlencoded({extended: true}));
